@@ -1,2 +1,4 @@
 # Project exclude paths
+/.idea/
 /target/
+/EU3KarateFramework.iml
